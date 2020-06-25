@@ -1,0 +1,1 @@
+This is my solution for the Drum Kit excercise form JavaScript30 (by Wes Bos)
